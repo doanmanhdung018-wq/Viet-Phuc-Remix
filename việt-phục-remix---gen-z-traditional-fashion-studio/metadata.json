@@ -1,0 +1,6 @@
+{
+  "name": "Việt Phục Remix - Gen Z Traditional Fashion Studio",
+  "description": "Khám phá và phối trang phục truyền thống Việt Nam (Áo Ngũ thân, Tứ thân, Nhật Bình, Áo Dài) theo phong cách Gen Z thời thượng và chuẩn mực văn hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
